@@ -1,10 +1,3 @@
-GROUP MEMBERS:
-1.)JAYASHREE PRABUNATHAN
-
-2.)REMYA MOHANAN
-
-3.)SARIKA PADMASHALI
-
 
 The Hw2.zip consists of 3 folders -
 
