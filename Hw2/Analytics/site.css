@@ -1,0 +1,26 @@
+h1
+{	
+	text-align: center;
+	
+}
+
+
+body
+{
+    background-color: lightblue;
+	
+}
+
+#Bar1{
+	background-color: DarkViolet;
+	height: 25px;
+}
+
+#Bar2{
+	background-color: DarkBlue;
+	height: 25px;
+}
+
+form{
+	text-align:center;
+}
